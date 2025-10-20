@@ -134,7 +134,7 @@ pymysql.install_as_MySQLdb()
 DATABASES = {
     # 'default': {
     #     'ENGINE': 'django.db.backends.mysql',
-    #     'NAME': 'expatpedia_db',
+    #     'NAME': 'realexpat2',
     #     'USER': 'root',
     #     'PASSWORD': '~W,C+N.PE3-AkCi',  
     #     'HOST': 'localhost',    
